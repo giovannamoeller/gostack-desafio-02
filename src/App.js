@@ -25,7 +25,6 @@ function App() {
   }
 
   async function handleRemoveRepository(id) {
-    console.log(id)
     await api.delete(`/repositories/${id}`)
 
     const list = document.getElementById(id);
