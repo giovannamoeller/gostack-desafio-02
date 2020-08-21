@@ -5,7 +5,7 @@
 <br><br>
 Criação de uma aplicação com <b>React</b> que permite, através de uma listagem de dados, <b>adicionar</b> ou <b>remover</b> um repositório da <b>API</b> criada no desafio anterior com NodeJS.
 <br>
-A correção desse desafio foi feita a partir de testes automatizados. Nota: 10,0.
+A correção desse desafio foi feita a partir de testes automatizados.
 <br><br>
 <b>Tecnologias utilizadas:</b>
 <br>
